@@ -8,9 +8,19 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Detail</title>
 </head>
 <body>
-
+    <h1>My Store</h1>
+    <form>
+        Name
+        <input type="text">
+        <br>
+        Price
+        <input type="number">
+        <br>
+        Color
+        <input type="text">
+    </form>
 </body>
 </html>

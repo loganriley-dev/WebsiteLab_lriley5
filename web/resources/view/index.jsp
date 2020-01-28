@@ -8,9 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Home</title>
 </head>
 <body>
-
+    <img src="img/kitten-1.jpg">
+    <h1>My Store</h1>
+    <p>Browse Items</p>
 </body>
 </html>
